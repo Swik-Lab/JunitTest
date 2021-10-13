@@ -20,6 +20,8 @@ public class Count {
 			else
 				odd++;
 		}
+		System.out.println(eve);
+		System.out.println(odd);
 		
 
 	}
